@@ -52,7 +52,7 @@ This repository chronicles my intensive preparation for the LFCS certification, 
 
 ## 🛠️ Tech Stack
 
-- **OS:** Rocky Linux 9.x
+- **OS:** Rocky Linux 10.0
 - **Shell:** Bash
 - **Version Control:** Git
 - **Documentation:** Markdown
@@ -85,9 +85,9 @@ Traditional LFCS prep focuses on command memorization. My approach emphasizes:
 
 ## 🤝 Connect With Me
 
-- **LinkedIn:** [Your LinkedIn Profile]
-- **Email:** your.email@example.com
-- **Blog/Portfolio:** [Your Website]
+- **LinkedIn:** https://www.linkedin.com/in/joanayissindong 
+- **Email:** joanayissindong@gmail.com 
+- **Blog/Portfolio:** https://github.com/joanayissindong 
 
 ## 📝 License
 
@@ -104,4 +104,4 @@ This repository is licensed under the MIT License - see the [LICENSE](LICENSE) f
 ⭐ **Star this repo** if you're also on your certification journey!  
 🔔 **Watch this repo** to follow my weekly progress!
 
-**Last Updated:** December 6, 2024
+**Last Updated:** December 6, 2025

@@ -1,7 +1,7 @@
 #!/bin/bash
 # Banking Compliance Audit - Complete Solution
-# Author: [Your Name]
-# Date: December 6, 2024
+# Author: Joan Ayissi Ndong
+# Date: December 6, 2025
 # Score: 100/100
 
 set -e  # Exit on any error

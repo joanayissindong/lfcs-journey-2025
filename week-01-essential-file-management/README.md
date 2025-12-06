@@ -87,6 +87,6 @@ You're a Junior SysAdmin at an international bank. The ACPR (French banking regu
 
 ---
 
-**Date Completed:** December 6, 2024  
+**Date Completed:** December 6, 2025  
 **Time Invested:** ~3 hours (study + lab)
 
