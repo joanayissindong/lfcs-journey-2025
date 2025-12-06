@@ -2,7 +2,7 @@
 
 [![LFCS](https://img.shields.io/badge/LFCS-In%20Progress-yellow)](https://training.linuxfoundation.org/certification/linux-foundation-certified-sysadmin-lfcs/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/joanayissindong)
 
 > Documenting my journey to becoming a **Linux Foundation Certified System Administrator (LFCS)**
 
