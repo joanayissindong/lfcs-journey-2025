@@ -1,0 +1,24 @@
+# Sensitive files
+*.tmp
+*.bak
+*~
+
+# Personal data
+/data/
+/secrets/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Backup directories
+backup/
