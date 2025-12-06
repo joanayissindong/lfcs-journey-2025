@@ -2,7 +2,7 @@
 
 [![LFCS](https://img.shields.io/badge/LFCS-In%20Progress-yellow)](https://training.linuxfoundation.org/certification/linux-foundation-certified-sysadmin-lfcs/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/joanayissindong)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/joanayissindong/)
 
 > Documenting my journey to becoming a **Linux Foundation Certified System Administrator (LFCS)**
 
@@ -85,9 +85,10 @@ Traditional LFCS prep focuses on command memorization. My approach emphasizes:
 
 ## 🤝 Connect With Me
 
-- **LinkedIn:** https://www.linkedin.com/in/joanayissindong 
+- **LinkedIn:** [Joan Ayissi Ndong](https://linkedin.com/in/joanayissindong)
 - **Email:** joanayissindong@gmail.com 
-- **Blog/Portfolio:** https://github.com/joanayissindong 
+- **Twitter(X):** [Joan Ayissi Ndong](https://x.com/jaynDevOps)
+- **GitHub:** [joanayissindong](https://github.com/joanayissindong)
 
 ## 📝 License
 
